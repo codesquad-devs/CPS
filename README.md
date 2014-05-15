@@ -1,3 +1,3 @@
 CS City Parking System
 
-CentralSoft Technology Sdn Bhd
+Developed by CentralSoft Technology Sdn Bhd
